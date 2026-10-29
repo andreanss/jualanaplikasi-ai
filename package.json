@@ -1,0 +1,21 @@
+{
+  "name": "jualanaplikasiai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Company profile + panel transaksi (invoice, QRIS dinamis, notifikasi WhatsApp) JualanAplikasiAI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.9.0",
+    "express": "^4.22.3",
+    "jpeg-js": "^0.4.4",
+    "jsqr": "^1.4.0",
+    "pngjs": "^7.0.0",
+    "qrcode": "^1.5.4"
+  }
+}

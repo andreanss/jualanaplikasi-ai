@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 190" role="img" aria-label="Ilustrasi pengembangan aplikasi custom">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EAFBF1"/><stop offset="1" stop-color="#D2F3E0"/>
+    </linearGradient>
+    <linearGradient id="gr5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#046B4C"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="190" rx="18" fill="url(#bg5)"/>
+  <circle cx="420" cy="44" r="46" fill="#ffffff" opacity="0.55"/>
+  <g>
+    <rect x="64" y="32" width="238" height="120" rx="14" fill="#ffffff"/>
+    <path d="M64 50h238" stroke="#E1F2E9" stroke-width="2"/>
+    <circle cx="80" cy="41" r="4" fill="#FCA5A5"/>
+    <circle cx="94" cy="41" r="4" fill="#FCD34D"/>
+    <circle cx="108" cy="41" r="4" fill="#6EE7B7"/>
+    <g stroke="#057A55" stroke-width="3.2" stroke-linecap="round" fill="none">
+      <path d="M104 84l-14 16 14 16"/>
+      <path d="M132 116l14-16-14-16"/>
+      <path d="M124 80l-10 40" opacity="0.6"/>
+      <path d="M158 92h96M158 106h72M158 120h58" stroke="#BFE3D2"/>
+    </g>
+  </g>
+  <g>
+    <rect x="304" y="66" width="112" height="88" rx="16" fill="url(#gr5)"/>
+    <path d="M330 112l14-16 14 16" stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(0,6)"/>
+    <rect x="330" y="128" width="60" height="7" rx="3.5" fill="#8EE7C0"/>
+    <circle cx="360" cy="88" r="9" fill="#ffffff" opacity="0.9"/>
+  </g>
+  <g stroke="#057A55" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.45">
+    <path d="M296 78c6 0 8 4 8 8"/>
+    <path d="M296 130c6 0 8-4 8-8"/>
+  </g>
+  <circle cx="56" cy="166" r="7" fill="#6EE7B7"/>
+</svg>

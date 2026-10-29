@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 190" role="img" aria-label="Ilustrasi otomasi penjualan dan CRM">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EAFBF1"/><stop offset="1" stop-color="#D2F3E0"/>
+    </linearGradient>
+    <linearGradient id="gr3" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#059669"/><stop offset="1" stop-color="#6EE7B7"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="190" rx="18" fill="url(#bg3)"/>
+  <circle cx="412" cy="36" r="48" fill="#ffffff" opacity="0.55"/>
+  <g>
+    <rect x="48" y="36" width="196" height="118" rx="16" fill="#ffffff"/>
+    <path d="M70 132l34-30 26 18 44-46 28 24 22-30" fill="none" stroke="url(#gr3)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="70" cy="132" r="5" fill="#057A55"/>
+    <circle cx="246" cy="68" r="5" fill="#057A55"/>
+    <rect x="70" y="52" width="56" height="8" rx="4" fill="#CBE8DB"/>
+  </g>
+  <g>
+    <rect x="272" y="46" width="158" height="38" rx="11" fill="#ffffff" opacity="0.92"/>
+    <circle cx="292" cy="65" r="10" fill="#D9F7E7"/>
+    <rect x="310" y="58" width="86" height="6" rx="3" fill="#BFE3D2"/>
+    <rect x="310" y="69" width="58" height="6" rx="3" fill="#D8EDE3"/>
+  </g>
+  <g>
+    <rect x="272" y="94" width="158" height="38" rx="11" fill="#ffffff" opacity="0.92"/>
+    <circle cx="292" cy="113" r="10" fill="#D9F7E7"/>
+    <rect x="310" y="106" width="70" height="6" rx="3" fill="#BFE3D2"/>
+    <rect x="310" y="117" width="94" height="6" rx="3" fill="#D8EDE3"/>
+  </g>
+  <g>
+    <rect x="272" y="142" width="88" height="30" rx="15" fill="url(#gr3)"/>
+    <path d="M292 157l5 5 9-10" fill="none" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="314" y="153" width="34" height="6" rx="3" fill="#ffffff" opacity="0.85"/>
+  </g>
+  <circle cx="60" cy="170" r="8" fill="#6EE7B7"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 190" role="img" aria-label="Ilustrasi analitik dan prediksi berbasis AI">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0FCF4"/><stop offset="1" stop-color="#D6F5E4"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#057A55"/><stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="190" rx="18" fill="url(#bg4)"/>
+  <circle cx="66" cy="38" r="44" fill="#ffffff" opacity="0.6"/>
+  <g>
+    <rect x="52" y="34" width="240" height="122" rx="15" fill="#ffffff"/>
+    <rect x="74" y="112" width="22" height="30" rx="6" fill="url(#bar)" opacity="0.55"/>
+    <rect x="108" y="94" width="22" height="48" rx="6" fill="url(#bar)" opacity="0.7"/>
+    <rect x="142" y="76" width="22" height="66" rx="6" fill="url(#bar)" opacity="0.85"/>
+    <rect x="176" y="58" width="22" height="84" rx="6" fill="url(#bar)"/>
+    <rect x="210" y="88" width="22" height="54" rx="6" fill="url(#bar)" opacity="0.75"/>
+    <rect x="244" y="50" width="22" height="92" rx="6" fill="url(#bar)"/>
+    <path d="M74 48h60" stroke="#CBE8DB" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="392" cy="86" r="52" fill="#ffffff"/>
+    <circle cx="392" cy="86" r="38" fill="none" stroke="#E4F3EB" stroke-width="12"/>
+    <path d="M392 86 L392 48" stroke="#10B981" stroke-width="12" stroke-linecap="round"/>
+    <path d="M392 86 L422 104" stroke="#057A55" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="392" cy="86" r="6" fill="#057A55"/>
+  </g>
+  <g>
+    <rect x="330" y="150" width="124" height="24" rx="12" fill="#ffffff" opacity="0.9"/>
+    <rect x="344" y="159" width="52" height="6" rx="3" fill="#BFE3D2"/>
+    <circle cx="432" cy="162" r="7" fill="#6EE7B7"/>
+  </g>
+  <circle cx="300" cy="172" r="7" fill="#6EE7B7"/>
+</svg>

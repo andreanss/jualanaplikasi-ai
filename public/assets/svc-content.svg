@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 190" role="img" aria-label="Ilustrasi generator konten dan copywriting dengan AI">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EFFBF3"/><stop offset="1" stop-color="#D6F5E4"/>
+    </linearGradient>
+    <linearGradient id="gr2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#046B4C"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="190" rx="18" fill="url(#bg2)"/>
+  <circle cx="70" cy="40" r="44" fill="#ffffff" opacity="0.6"/>
+  <circle cx="418" cy="158" r="50" fill="#ffffff" opacity="0.5"/>
+  <g>
+    <rect x="60" y="34" width="150" height="122" rx="14" fill="#ffffff"/>
+    <rect x="76" y="52" width="86" height="9" rx="4.5" fill="#0F766E" opacity="0.75"/>
+    <rect x="76" y="72" width="118" height="7" rx="3.5" fill="#CBE8DB"/>
+    <rect x="76" y="87" width="102" height="7" rx="3.5" fill="#CBE8DB"/>
+    <rect x="76" y="102" width="112" height="7" rx="3.5" fill="#CBE8DB"/>
+    <rect x="76" y="117" width="70" height="7" rx="3.5" fill="#CBE8DB"/>
+    <rect x="76" y="132" width="96" height="9" rx="4.5" fill="#6EE7B7"/>
+  </g>
+  <g>
+    <rect x="228" y="52" width="140" height="96" rx="14" fill="#ffffff" opacity="0.9"/>
+    <rect x="244" y="70" width="108" height="7" rx="3.5" fill="#D8EDE3"/>
+    <rect x="244" y="85" width="88" height="7" rx="3.5" fill="#D8EDE3"/>
+    <rect x="244" y="100" width="100" height="7" rx="3.5" fill="#D8EDE3"/>
+    <rect x="244" y="115" width="58" height="7" rx="3.5" fill="#6EE7B7"/>
+  </g>
+  <g>
+    <circle cx="392" cy="62" r="26" fill="url(#gr2)"/>
+    <path d="M392 50l3.4 7.6 7.6 1-5.6 5.3 1.4 7.6-6.8-3.8-6.8 3.8 1.4-7.6-5.6-5.3 7.6-1z" fill="#ffffff"/>
+  </g>
+  <g stroke="#057A55" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.55">
+    <path d="M214 96c6-4 10-8 12-14"/>
+  </g>
+  <g>
+    <path d="M330 148l44-44" stroke="#0F766E" stroke-width="7" stroke-linecap="round" opacity="0.35"/>
+    <path d="M356 116l14-6 6 14-14 6z" fill="#057A55" opacity="0.75"/>
+  </g>
+  <circle cx="54" cy="160" r="7" fill="#6EE7B7"/>
+</svg>
